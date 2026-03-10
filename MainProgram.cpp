@@ -94,9 +94,9 @@ private:
 
 public:
     Student();
-    Student(string Name, int Grade){
-        name = Name;
-        grade = Grade;
+    Student(string n, int g){
+        name = n;
+        grade = g;
     }
     
     // TODO
